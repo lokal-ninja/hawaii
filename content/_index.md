@@ -1,0 +1,3 @@
+Hawaii is a state of the United States of America located in the Pacific Ocean. It is the only U.S. state located outside North America and the only island state.
+
+The state encompasses nearly the entire Hawaiian archipelago, 137 islands spread over 1,500 miles (2,400 km). The volcanic archipelago is physiographically and ethnologically part of the Polynesian subregion of Oceania. At the southeastern end of the archipelago, the eight main islands are, in order from northwest to southeast: Niʻihau, Kauaʻi, Oʻahu, Molokaʻi, Lānaʻi, Kahoʻolawe, Maui, and the largest, Hawaiʻi, which the state is named after. It is often called the "Big Island" or "Hawaii Island" to avoid confusion with the state or archipelago. (Wikipedia)
