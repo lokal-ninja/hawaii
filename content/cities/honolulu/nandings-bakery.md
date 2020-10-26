@@ -1,4 +1,4 @@
 ---
-title: "Nanding's bakery"
+title: "Nanding's Bakery"
 url: /honolulu/nandings-bakery/
 ---

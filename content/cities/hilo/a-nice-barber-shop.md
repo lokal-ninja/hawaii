@@ -1,4 +1,4 @@
 ---
-title: "... a Nice Barber Shop"
+title: "A Nice Barber Shop"
 url: /hilo/a-nice-barber-shop/
 ---

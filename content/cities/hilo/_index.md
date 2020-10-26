@@ -1,6 +1,6 @@
 ---
 title: Hilo
 url: /hilo/
-latitude: 19.707243000000002
-longitude: -155.081635
+latitude: 19.7073734
+longitude: -155.0815803
 ---
