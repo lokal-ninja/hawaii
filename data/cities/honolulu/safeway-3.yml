@@ -1,12 +1,11 @@
-id: 38525105
-type: way
-shop: supermarket
-latitude: 21.308874600000003
-longitude: -157.81072070000002
-postcode: "96822"
+id: 8335787312
+type: node
+latitude: 21.3133373
+longitude: -157.85781550000002
+postcode: "96813"
 city: Honolulu
-street: "East Manoa Road"
-housenumber: 2855
-phone: ""
-opening_hours: ""
-website: "https://local.safeway.com/hi/honolulu-204.html"
+street: "Pali Highway"
+housenumber: 1360
+phone: "+1 808 566 6811"
+opening_hours: "Mo-Su 5:00-23:00"
+website: "https://local.safeway.com/hi/honolulu-203.html"

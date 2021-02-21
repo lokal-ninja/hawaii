@@ -1,6 +1,5 @@
 id: 6906498695
 type: node
-shop: chemist
 latitude: 21.3935558
 longitude: -157.742041
 postcode: "96734"
@@ -8,5 +7,5 @@ city: Kailua
 street: "Kailua Road"
 housenumber: 609
 phone: "+1 808 261 8537"
-opening_hours: "Mo-Su 06:00-00:00"
+opening_hours: "Mo-Su 06:00-24:00"
 website: "https://www.cvs.com/store-locator/details-directions/9825"
