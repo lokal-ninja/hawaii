@@ -1,5 +1,5 @@
 ---
 title: "Young's Lunchwagon"
 url: /honolulu/youngs-lunchwagon/
-shop: Allgemein
+shop: shop
 ---

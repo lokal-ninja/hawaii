@@ -1,5 +1,5 @@
 ---
 title: "Nail Design"
 url: /mililani/nail-design/
-shop: Kosmetik
+shop: beauty
 ---

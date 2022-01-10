@@ -1,5 +1,5 @@
 ---
 title: "Texaco"
 url: /hilo/texaco/
-shop: Lebensmittel
+shop: convenience
 ---

@@ -1,5 +1,5 @@
 ---
 title: "LeSportsac"
 url: /honolulu/lesportsac/
-shop: Kleidung
+shop: clothes
 ---

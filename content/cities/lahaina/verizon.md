@@ -1,5 +1,5 @@
 ---
 title: "Verizon"
 url: /lahaina/verizon/
-shop: Handy
+shop: mobile phone
 ---

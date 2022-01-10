@@ -1,5 +1,5 @@
 ---
 title: "Honolulu Furniture Company"
 url: /honolulu/honolulu-furniture-company/
-shop: Möbel
+shop: furniture
 ---

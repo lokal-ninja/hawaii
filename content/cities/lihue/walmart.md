@@ -1,5 +1,5 @@
 ---
 title: "Walmart"
 url: /lihue/walmart/
-shop: Supermarkt
+shop: supermarket
 ---

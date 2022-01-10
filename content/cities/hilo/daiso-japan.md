@@ -1,5 +1,5 @@
 ---
 title: "Daiso Japan"
 url: /hilo/daiso-japan/
-shop: Leerstehend
+shop: vacant
 ---

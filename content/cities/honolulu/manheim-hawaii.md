@@ -1,5 +1,5 @@
 ---
 title: "Manheim Hawaii"
 url: /honolulu/manheim-hawaii/
-shop: Autohaus
+shop: car
 ---

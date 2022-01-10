@@ -1,5 +1,5 @@
 ---
 title: "Dreams of Paradise"
 url: /hilo/dreams-of-paradise/
-shop: Kunst
+shop: art
 ---

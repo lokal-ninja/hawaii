@@ -1,5 +1,5 @@
 ---
 title: "Times"
 url: /waipahu/times/
-shop: Supermarkt
+shop: supermarket
 ---

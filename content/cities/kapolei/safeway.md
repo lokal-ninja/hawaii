@@ -1,5 +1,5 @@
 ---
 title: "Safeway"
 url: /kapolei/safeway/
-shop: Supermarkt
+shop: supermarket
 ---

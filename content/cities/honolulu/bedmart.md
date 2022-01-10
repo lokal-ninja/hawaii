@@ -1,5 +1,5 @@
 ---
 title: "Bedmart"
 url: /honolulu/bedmart/
-shop: Betten
+shop: bed
 ---

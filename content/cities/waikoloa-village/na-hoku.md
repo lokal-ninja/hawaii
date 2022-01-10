@@ -1,5 +1,5 @@
 ---
 title: "Na Hoku"
 url: /waikoloa-village/na-hoku/
-shop: Schmuck
+shop: jewelry
 ---

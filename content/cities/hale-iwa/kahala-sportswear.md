@@ -1,5 +1,5 @@
 ---
 title: "Kahala Sportswear"
 url: /hale-iwa/kahala-sportswear/
-shop: Kleidung
+shop: clothes
 ---

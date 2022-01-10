@@ -1,5 +1,5 @@
 ---
 title: "Walgreens"
 url: /kaneohe/walgreens/
-shop: Drogerie
+shop: chemist
 ---

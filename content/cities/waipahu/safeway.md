@@ -1,5 +1,5 @@
 ---
 title: "Safeway"
 url: /waipahu/safeway/
-shop: Supermarkt
+shop: supermarket
 ---

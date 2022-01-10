@@ -1,5 +1,5 @@
 ---
 title: "ReStore"
 url: /kamuela/restore/
-shop: Gebrauchtwaren
+shop: charity
 ---

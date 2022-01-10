@@ -1,5 +1,5 @@
 ---
 title: "Boss Frog's"
 url: /lahaina/boss-frogs/
-shop: Tauchen
+shop: diving
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Victra"
 url: /mililani/victra/
-shop: Handy
+shop: mobile phone
 ---

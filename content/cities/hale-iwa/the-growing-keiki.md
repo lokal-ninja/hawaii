@@ -1,5 +1,5 @@
 ---
 title: "The Growing Keiki"
 url: /hale-iwa/the-growing-keiki/
-shop: Kleidung
+shop: clothes
 ---

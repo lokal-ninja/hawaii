@@ -1,5 +1,5 @@
 ---
 title: "Poke Stop"
 url: /mililani/poke-stop/
-shop: Fisch
+shop: seafood
 ---

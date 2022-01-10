@@ -1,5 +1,5 @@
 ---
 title: "Crib"
 url: /hilo/crib/
-shop: Babysachen
+shop: baby goods
 ---

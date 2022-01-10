@@ -1,5 +1,5 @@
 ---
 title: "HookaHookah"
 url: /honolulu/hookahookah/
-shop: Tabak
+shop: tobacco
 ---

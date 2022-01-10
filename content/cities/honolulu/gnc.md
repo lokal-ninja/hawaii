@@ -1,5 +1,5 @@
 ---
 title: "GNC"
 url: /honolulu/gnc/
-shop: Nahrungsergänzung
+shop: nutrition supplements
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Ziebart"
 url: /hilo/ziebart/
-shop: Autowerkstatt
+shop: car repair
 ---

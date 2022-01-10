@@ -1,5 +1,5 @@
 ---
 title: "Sig Zane Designs"
 url: /hilo/sig-zane-designs/
-shop: Kleidung
+shop: clothes
 ---

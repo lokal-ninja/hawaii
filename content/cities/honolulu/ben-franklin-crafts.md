@@ -1,5 +1,5 @@
 ---
 title: "Ben Franklin Crafts"
 url: /honolulu/ben-franklin-crafts/
-shop: Basteln
+shop: craft
 ---
