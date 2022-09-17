@@ -1,6 +1,6 @@
 ---
 title: Koloa
 url: /koloa/
-latitude: 21.905
-longitude: -159.463
+latitude: 21.902
+longitude: -159.467
 ---
