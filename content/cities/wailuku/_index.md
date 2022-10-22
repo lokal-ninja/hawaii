@@ -1,6 +1,6 @@
 ---
 title: Wailuku
 url: /wailuku/
-latitude: 20.997
-longitude: -156.546
+latitude: 20.904
+longitude: -156.489
 ---
