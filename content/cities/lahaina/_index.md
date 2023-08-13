@@ -1,6 +1,6 @@
 ---
 title: Lahaina
 url: /lahaina/
-latitude: 20.875
-longitude: -156.679
+latitude: 20.952
+longitude: -156.686
 ---
