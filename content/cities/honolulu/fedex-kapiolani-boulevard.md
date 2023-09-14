@@ -1,5 +1,5 @@
 ---
 title: "FedEx"
-url: /honolulu/fedex/
+url: /honolulu/fedex-kapiolani-boulevard/
 shop: copyshop
 ---

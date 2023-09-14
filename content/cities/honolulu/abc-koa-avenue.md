@@ -1,5 +1,5 @@
 ---
 title: "ABC"
-url: /honolulu/abc/
+url: /honolulu/abc-koa-avenue/
 shop: convenience
 ---

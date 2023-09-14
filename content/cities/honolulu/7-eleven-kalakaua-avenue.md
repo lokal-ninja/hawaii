@@ -1,5 +1,5 @@
 ---
 title: "7-Eleven"
-url: /honolulu/7-eleven/
+url: /honolulu/7-eleven-kalakaua-avenue/
 shop: convenience
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Pages and Pages"
-url: /honolulu/pages-and-pages/
+url: /honolulu/pages-and-pages-rodgers-boulevard/
 shop: convenience
 ---

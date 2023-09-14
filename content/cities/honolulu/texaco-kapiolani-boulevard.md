@@ -1,5 +1,5 @@
 ---
 title: "Texaco"
-url: /honolulu/texaco/
+url: /honolulu/texaco-kapiolani-boulevard/
 shop: convenience
 ---
