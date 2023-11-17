@@ -1,6 +1,6 @@
 ---
 title: Captain Cook
 url: /captain-cook/
-latitude: 19.483
-longitude: -155.899
+latitude: 19.438
+longitude: -155.889
 ---
