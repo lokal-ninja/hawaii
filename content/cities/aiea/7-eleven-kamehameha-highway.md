@@ -1,5 +1,5 @@
 ---
 title: "7-Eleven"
-url: /aiea/7-eleven-kaahumanu-street/
+url: /aiea/7-eleven-kamehameha-highway/
 shop: convenience
 ---
