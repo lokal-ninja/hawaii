@@ -1,5 +1,5 @@
 ---
-title: "Prince Kuhio Plaza"
+title: "Prince Kūhiō Plaza"
 url: /hilo/prince-kuhio-plaza/
 shop: mall
 ---
