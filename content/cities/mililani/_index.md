@@ -1,6 +1,6 @@
 ---
 title: Mililani
 url: /mililani/
-latitude: 21.467
-longitude: -158.002
+latitude: 21.469
+longitude: -158.001
 ---
