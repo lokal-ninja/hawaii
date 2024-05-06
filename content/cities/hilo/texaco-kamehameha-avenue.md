@@ -1,5 +1,5 @@
 ---
 title: "Texaco"
-url: /hilo/texaco-kino-ole-street/
+url: /hilo/texaco-kamehameha-avenue/
 shop: convenience
 ---
