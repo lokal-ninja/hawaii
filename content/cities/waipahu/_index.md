@@ -1,6 +1,6 @@
 ---
 title: Waipahu
 url: /waipahu/
-latitude: 21.39
-longitude: -158.034
+latitude: 21.412
+longitude: -157.998
 ---
