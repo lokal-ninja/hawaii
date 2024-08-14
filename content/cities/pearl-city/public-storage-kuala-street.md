@@ -1,5 +1,5 @@
 ---
 title: "Public Storage"
-url: /pearl-city/public-storage-kamehameha-highway/
+url: /pearl-city/public-storage-kuala-street/
 shop: storage rental
 ---
