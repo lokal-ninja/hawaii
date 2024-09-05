@@ -1,5 +1,5 @@
 ---
 title: "Ace Hardware"
 url: /hilo/ace-hardware/
-shop: doityourself
+shop: Baumarkt
 ---

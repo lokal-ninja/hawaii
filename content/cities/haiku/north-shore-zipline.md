@@ -1,5 +1,5 @@
 ---
 title: "North Shore Zipline"
 url: /haiku/north-shore-zipline/
-shop: shop
+shop: Allgemein
 ---

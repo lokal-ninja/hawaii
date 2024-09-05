@@ -1,5 +1,5 @@
 ---
 title: "nomnom"
 url: /honolulu/nomnom/
-shop: convenience
+shop: Lebensmittel
 ---

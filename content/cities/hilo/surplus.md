@@ -1,5 +1,5 @@
 ---
 title: "Surplus"
 url: /hilo/surplus/
-shop: outdoor
+shop: Outdoor
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Mari's Garden"
 url: /milliani/maris-garden/
-shop: garden centre
+shop: Garten-Center
 ---

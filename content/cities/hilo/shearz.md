@@ -1,5 +1,5 @@
 ---
 title: "Shearz"
 url: /hilo/shearz/
-shop: hairdresser
+shop: Friseur
 ---

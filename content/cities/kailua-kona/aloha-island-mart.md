@@ -1,5 +1,5 @@
 ---
 title: "Aloha Island Mart"
 url: /kailua-kona/aloha-island-mart/
-shop: convenience
+shop: Lebensmittel
 ---

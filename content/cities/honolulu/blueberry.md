@@ -1,5 +1,5 @@
 ---
 title: "Blueberry"
 url: /honolulu/blueberry/
-shop: clothes
+shop: Kleidung
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Petco"
 url: /kaneohe/petco/
-shop: pet
+shop: Tiere
 ---

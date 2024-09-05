@@ -1,5 +1,5 @@
 ---
 title: "Polynesian Treasures"
 url: /hale-iwa/polynesian-treasures/
-shop: gift
+shop: Andenken
 ---

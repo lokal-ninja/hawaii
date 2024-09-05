@@ -1,5 +1,5 @@
 ---
 title: "Prada"
 url: /honolulu/prada/
-shop: clothes
+shop: Kleidung
 ---

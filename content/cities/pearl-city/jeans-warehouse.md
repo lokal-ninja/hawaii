@@ -1,5 +1,5 @@
 ---
 title: "Jeans Warehouse"
 url: /pearl-city/jeans-warehouse/
-shop: clothes
+shop: Kleidung
 ---

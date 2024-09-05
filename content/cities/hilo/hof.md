@@ -1,5 +1,5 @@
 ---
 title: "HOF"
 url: /hilo/hof/
-shop: hairdresser
+shop: Friseur
 ---

@@ -1,5 +1,5 @@
 ---
 title: "BookEnds"
 url: /kailua/bookends/
-shop: books
+shop: Bücher
 ---

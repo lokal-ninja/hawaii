@@ -1,5 +1,5 @@
 ---
 title: "Petco"
 url: /honolulu/petco/
-shop: pet
+shop: Tiere
 ---

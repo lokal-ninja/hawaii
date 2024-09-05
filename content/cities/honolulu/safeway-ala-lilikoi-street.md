@@ -1,5 +1,5 @@
 ---
 title: "Safeway"
 url: /honolulu/safeway-ala-lilikoi-street/
-shop: supermarket
+shop: Supermarkt
 ---

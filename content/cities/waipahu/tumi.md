@@ -1,5 +1,5 @@
 ---
 title: "Tumi"
 url: /waipahu/tumi/
-shop: bag
+shop: Taschen & Koffer
 ---

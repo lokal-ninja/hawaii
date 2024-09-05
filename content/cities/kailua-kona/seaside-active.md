@@ -1,5 +1,5 @@
 ---
 title: "Seaside Active"
 url: /kailua-kona/seaside-active/
-shop: clothes
+shop: Kleidung
 ---

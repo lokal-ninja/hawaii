@@ -1,5 +1,5 @@
 ---
 title: "Friendly Market Center"
 url: /kaunakakai/friendly-market-center/
-shop: supermarket
+shop: Supermarkt
 ---

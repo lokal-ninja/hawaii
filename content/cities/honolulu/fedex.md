@@ -1,5 +1,5 @@
 ---
 title: "FedEx"
 url: /honolulu/fedex/
-shop: copyshop
+shop: Kopieren
 ---

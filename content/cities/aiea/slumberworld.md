@@ -1,5 +1,5 @@
 ---
 title: "SlumberWorld"
 url: /aiea/slumberworld/
-shop: furniture
+shop: Möbel
 ---

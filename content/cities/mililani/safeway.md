@@ -1,5 +1,5 @@
 ---
 title: "Safeway"
 url: /mililani/safeway/
-shop: supermarket
+shop: Supermarkt
 ---

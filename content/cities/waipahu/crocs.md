@@ -1,5 +1,5 @@
 ---
 title: "Crocs"
 url: /waipahu/crocs/
-shop: shoes
+shop: Schuhe
 ---

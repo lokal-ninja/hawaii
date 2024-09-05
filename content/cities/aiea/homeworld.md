@@ -1,5 +1,5 @@
 ---
 title: "HomeWorld"
 url: /aiea/homeworld/
-shop: furniture
+shop: Möbel
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Ford"
 url: /honolulu/ford/
-shop: car
+shop: Autohaus
 ---

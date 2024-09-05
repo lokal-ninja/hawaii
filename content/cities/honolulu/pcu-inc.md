@@ -1,5 +1,5 @@
 ---
 title: "Pcu Inc."
 url: /honolulu/pcu-inc/
-shop: jewelry
+shop: Schmuck
 ---

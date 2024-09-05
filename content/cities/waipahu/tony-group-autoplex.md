@@ -1,5 +1,5 @@
 ---
 title: "Tony Group Autoplex"
 url: /waipahu/tony-group-autoplex/
-shop: car
+shop: Autohaus
 ---

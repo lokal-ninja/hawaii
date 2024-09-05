@@ -1,5 +1,5 @@
 ---
 title: "KTA Super Stores"
 url: /kailua-kona/kta-super-stores/
-shop: supermarket
+shop: Supermarkt
 ---

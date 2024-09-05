@@ -1,5 +1,5 @@
 ---
 title: "Mountain Road Cycles"
 url: /kamuela/mountain-road-cycles/
-shop: bicycle
+shop: Fahrrad
 ---
