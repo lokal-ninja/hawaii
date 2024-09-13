@@ -1,5 +1,5 @@
 ---
 title: "Lex Brodie's"
 url: /aiea/lex-brodies/
-shop: Autowerkstatt
+shop: car repair
 ---

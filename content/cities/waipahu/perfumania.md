@@ -1,5 +1,5 @@
 ---
 title: "Perfumania"
 url: /waipahu/perfumania/
-shop: Parfümerie
+shop: perfumery
 ---

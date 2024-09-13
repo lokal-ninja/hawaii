@@ -1,5 +1,5 @@
 ---
 title: "Kuroda Auto Body"
 url: /waipahu/kuroda-auto-body/
-shop: Autowerkstatt
+shop: car repair
 ---

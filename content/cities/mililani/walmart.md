@@ -1,5 +1,5 @@
 ---
 title: "Walmart"
 url: /mililani/walmart/
-shop: Warenhaus
+shop: department store
 ---

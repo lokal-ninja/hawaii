@@ -1,5 +1,5 @@
 ---
 title: "Whole Foods Market"
 url: /honolulu/whole-foods-market-kamakee-street/
-shop: Supermarkt
+shop: supermarket
 ---

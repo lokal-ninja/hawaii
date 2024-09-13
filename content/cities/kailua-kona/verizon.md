@@ -1,5 +1,5 @@
 ---
 title: "Verizon"
 url: /kailua-kona/verizon/
-shop: Handy
+shop: mobile phone
 ---

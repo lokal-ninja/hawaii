@@ -1,5 +1,5 @@
 ---
 title: "Safeway"
 url: /ewa-beach/safeway/
-shop: Supermarkt
+shop: supermarket
 ---

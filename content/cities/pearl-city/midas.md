@@ -1,5 +1,5 @@
 ---
 title: "Midas"
 url: /pearl-city/midas/
-shop: Autowerkstatt
+shop: car repair
 ---

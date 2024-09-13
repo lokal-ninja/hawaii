@@ -1,5 +1,5 @@
 ---
 title: "Target"
 url: /kailua-kona/target/
-shop: Warenhaus
+shop: department store
 ---

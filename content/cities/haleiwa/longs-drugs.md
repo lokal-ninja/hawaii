@@ -1,5 +1,5 @@
 ---
 title: "Longs Drugs"
 url: /haleiwa/longs-drugs/
-shop: Drogerie
+shop: chemist
 ---

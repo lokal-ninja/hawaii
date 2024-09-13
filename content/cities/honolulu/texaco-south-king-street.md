@@ -1,5 +1,5 @@
 ---
 title: "Texaco"
 url: /honolulu/texaco-south-king-street/
-shop: Lebensmittel
+shop: convenience
 ---

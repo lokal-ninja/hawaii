@@ -1,5 +1,5 @@
 ---
 title: "Tommy Hilfiger"
 url: /waipahu/tommy-hilfiger/
-shop: Kleidung
+shop: clothes
 ---

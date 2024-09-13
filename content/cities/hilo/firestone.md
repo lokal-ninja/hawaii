@@ -1,5 +1,5 @@
 ---
 title: "Firestone"
 url: /hilo/firestone/
-shop: Autowerkstatt
+shop: car repair
 ---

@@ -1,5 +1,5 @@
 ---
 title: "GameStop"
 url: /waipahu/gamestop/
-shop: Videospiele
+shop: video games
 ---

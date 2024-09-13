@@ -1,5 +1,5 @@
 ---
 title: "Downtown Dogs"
 url: /hilo/downtown-dogs/
-shop: Tiersalon
+shop: pet grooming
 ---

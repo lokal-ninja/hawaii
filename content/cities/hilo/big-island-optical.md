@@ -1,5 +1,5 @@
 ---
 title: "Big Island Optical"
 url: /hilo/big-island-optical/
-shop: Optiker
+shop: optician
 ---

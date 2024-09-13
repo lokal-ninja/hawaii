@@ -1,5 +1,5 @@
 ---
 title: "Walmart"
 url: /kapolei/walmart/
-shop: Warenhaus
+shop: department store
 ---

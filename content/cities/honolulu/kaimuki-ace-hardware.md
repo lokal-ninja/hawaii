@@ -1,5 +1,5 @@
 ---
 title: "Kaimuki Ace Hardware"
 url: /honolulu/kaimuki-ace-hardware/
-shop: Baumarkt
+shop: doityourself
 ---

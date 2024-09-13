@@ -1,5 +1,5 @@
 ---
 title: "Luxe Esthetics"
 url: /honolulu/luxe-esthetics/
-shop: Kosmetik
+shop: beauty
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Verizon"
 url: /hilo/verizon/
-shop: Handy
+shop: mobile phone
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Basically Books"
 url: /hilo/basically-books/
-shop: Bücher
+shop: books
 ---

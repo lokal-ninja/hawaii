@@ -1,5 +1,5 @@
 ---
 title: "nomnom"
 url: /mililani/nomnom/
-shop: Lebensmittel
+shop: convenience
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Two Frogs Hugging"
 url: /lihue/two-frogs-hugging/
-shop: Möbel
+shop: furniture
 ---

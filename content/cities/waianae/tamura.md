@@ -1,5 +1,5 @@
 ---
 title: "Tamura"
 url: /waianae/tamura/
-shop: Supermarkt
+shop: supermarket
 ---

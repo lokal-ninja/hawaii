@@ -1,5 +1,5 @@
 ---
 title: "Daiso Hawaii"
 url: /hilo/daiso-hawaii/
-shop: Kramladen
+shop: variety store
 ---

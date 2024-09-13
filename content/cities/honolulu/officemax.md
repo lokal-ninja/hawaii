@@ -1,5 +1,5 @@
 ---
 title: "OfficeMax"
 url: /honolulu/officemax/
-shop: Schreibwaren
+shop: office supplies
 ---

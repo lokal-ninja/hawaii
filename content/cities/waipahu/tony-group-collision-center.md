@@ -1,5 +1,5 @@
 ---
 title: "Tony Group Collision Center"
 url: /waipahu/tony-group-collision-center/
-shop: Autowerkstatt
+shop: car repair
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Earl"
 url: /honolulu/earl/
-shop: Feinkost
+shop: deli
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Down To Earth"
 url: /honolulu/down-to-earth-keawe-street/
-shop: Supermarkt
+shop: supermarket
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Koloa Deli"
 url: /koloa/koloa-deli/
-shop: Feinkost
+shop: deli
 ---

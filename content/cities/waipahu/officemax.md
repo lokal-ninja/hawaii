@@ -1,5 +1,5 @@
 ---
 title: "OfficeMax"
 url: /waipahu/officemax/
-shop: Schreibwaren
+shop: office supplies
 ---

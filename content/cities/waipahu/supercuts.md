@@ -1,5 +1,5 @@
 ---
 title: "Supercuts"
 url: /waipahu/supercuts/
-shop: Friseur
+shop: hairdresser
 ---

@@ -1,5 +1,5 @@
 ---
 title: "ProfessioNAIL"
 url: /waipahu/professionail/
-shop: Kosmetik
+shop: beauty
 ---

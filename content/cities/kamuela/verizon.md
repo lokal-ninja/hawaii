@@ -1,5 +1,5 @@
 ---
 title: "Verizon"
 url: /kamuela/verizon/
-shop: Handy
+shop: mobile phone
 ---

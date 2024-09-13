@@ -1,5 +1,5 @@
 ---
 title: "Clint's Auto Repair"
 url: /hilo/clints-auto-repair/
-shop: Autowerkstatt
+shop: car repair
 ---

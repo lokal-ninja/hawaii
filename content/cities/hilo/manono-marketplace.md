@@ -1,5 +1,5 @@
 ---
 title: "Manono Marketplace"
 url: /hilo/manono-marketplace/
-shop: Einkaufszentrum
+shop: mall
 ---

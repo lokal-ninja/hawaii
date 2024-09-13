@@ -1,5 +1,5 @@
 ---
 title: "AutoZone"
 url: /kahului/autozone/
-shop: Autoteile
+shop: car parts
 ---

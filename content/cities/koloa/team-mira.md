@@ -1,5 +1,5 @@
 ---
 title: "Team Mira"
 url: /koloa/team-mira/
-shop: Immobilien
+shop: estate agent
 ---

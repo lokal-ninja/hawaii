@@ -1,5 +1,5 @@
 ---
 title: "Daiso Japan"
 url: /pearl-city/daiso-japan/
-shop: Kramladen
+shop: variety store
 ---
