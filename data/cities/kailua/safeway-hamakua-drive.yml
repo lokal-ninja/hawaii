@@ -1,11 +1,11 @@
 id: 209669122
-type: way
+type: node
 latitude: 21.39096
 longitude: -157.73995
 postcode: "96734"
 city: Kailua
-street: "Hamakua Drive"
-housenumber: 200
-phone: "+1 808-266-5222"
+street: Hamakua Drive
+housenumber: "200"
+phone: +1 808-266-5222
 opening_hours: ""
-website: "https://local.safeway.com/safeway/hi/kailua/200-hamakua-dr.html"
+website: https://local.safeway.com/safeway/hi/kailua/200-hamakua-dr.html

@@ -1,11 +1,11 @@
 id: 490275120
-type: way
+type: node
 latitude: 21.29458
 longitude: -157.84687
 postcode: "96814"
 city: Honolulu
-street: "Kapiolani Boulevard"
-housenumber: 1283
-phone: "+1 808 762 1945"
+street: Kapiolani Boulevard
+housenumber: "1283"
+phone: +1 808 762 1945
 opening_hours: ""
-website: "https://www.shopbedmart.com/hi/locations/kapiolani/"
+website: https://www.shopbedmart.com/hi/locations/kapiolani/

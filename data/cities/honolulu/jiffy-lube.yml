@@ -1,11 +1,11 @@
 id: 824495592
-type: way
+type: node
 latitude: 21.31863
 longitude: -157.86545
-postcode: "96817-4658"
+postcode: 96817-4658
 city: Honolulu
-street: "North King Street"
-housenumber: 555
+street: North King Street
+housenumber: "555"
 phone: ""
-opening_hours: "Mo-Su 07:00-18:00"
-website: "https://www.jiffylube.com/locations/hi/honolulu/2893"
+opening_hours: Mo-Su 07:00-18:00
+website: https://www.jiffylube.com/locations/hi/honolulu/2893

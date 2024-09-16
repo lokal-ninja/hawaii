@@ -1,11 +1,11 @@
 id: 483523838
-type: way
+type: node
 latitude: 21.30198
 longitude: -157.85459
 postcode: "96813"
 city: Honolulu
-street: "Kapiolani Boulevard"
-housenumber: 650
+street: Kapiolani Boulevard
+housenumber: "650"
 phone: ""
 opening_hours: ""
-website: "https://dealers.servcolexus.com/honolulu/"
+website: https://dealers.servcolexus.com/honolulu/

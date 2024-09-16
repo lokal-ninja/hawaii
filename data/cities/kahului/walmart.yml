@@ -1,11 +1,11 @@
 id: 458790566
-type: way
+type: node
 latitude: 20.87872
 longitude: -156.45565
 postcode: "96732"
 city: Kahului
-street: "Pakaula Street"
-housenumber: 101
-phone: "+1-808-871-7820"
-opening_hours: "Mo-Su 06:00-24:00"
-website: "https://www.walmart.com/store/3290/kahului-hi/whats-new"
+street: Pakaula Street
+housenumber: "101"
+phone: +1-808-871-7820
+opening_hours: Mo-Su 06:00-24:00
+website: https://www.walmart.com/store/3290/kahului-hi/whats-new

@@ -1,11 +1,11 @@
 id: 303232009
-type: way
+type: node
 latitude: 19.71875
 longitude: -155.08151
 postcode: "96720"
 city: Hilo
-street: "Kilauea Avenue"
-housenumber: 550
-phone: "+1 808 961 3741"
+street: Kilauea Avenue
+housenumber: "550"
+phone: +1 808 961 3741
 opening_hours: ""
 website: ""

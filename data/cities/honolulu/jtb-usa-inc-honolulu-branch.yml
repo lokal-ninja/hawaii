@@ -4,8 +4,8 @@ latitude: 21.29207
 longitude: -157.84623
 postcode: "96814"
 city: Honolulu
-street: "Ala Moana Boulevard"
-housenumber: 1450
-phone: "+1 808-979-0111"
-opening_hours: "Mo-Fr 09:00-17:00"
-website: "https://www.jtbusa.com/Branch.aspx?city=Honolulu"
+street: Ala Moana Boulevard
+housenumber: "1450"
+phone: +1 808-979-0111
+opening_hours: Mo-Fr 09:00-17:00
+website: https://www.jtbusa.com/Branch.aspx?city=Honolulu

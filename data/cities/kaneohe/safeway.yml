@@ -1,11 +1,11 @@
 id: 62683228
-type: way
+type: node
 latitude: 21.42149
 longitude: -157.80274
 postcode: "96744"
 city: Kaneohe
-street: "Kamehameha Highway"
-housenumber: 46065
-phone: "+1 808-233-5800"
-opening_hours: "Mo-Su 05:00-02:00"
-website: "https://local.safeway.com/safeway/hi/kaneohe/46065-kamehameha-hwy.html"
+street: Kamehameha Highway
+housenumber: "46065"
+phone: +1 808-233-5800
+opening_hours: Mo-Su 05:00-02:00
+website: https://local.safeway.com/safeway/hi/kaneohe/46065-kamehameha-hwy.html

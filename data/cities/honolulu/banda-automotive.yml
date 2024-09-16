@@ -1,11 +1,11 @@
 id: 256450375
-type: way
+type: node
 latitude: 21.3233
 longitude: -157.85749
 postcode: "96817"
 city: Honolulu
-street: "Liliha Street"
-housenumber: 1739
-phone: "+1-808-533-7557"
+street: Liliha Street
+housenumber: "1739"
+phone: +1-808-533-7557
 opening_hours: ""
 website: ""

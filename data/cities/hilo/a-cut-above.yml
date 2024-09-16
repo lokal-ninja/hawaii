@@ -1,11 +1,11 @@
 id: 810169994
-type: way
+type: node
 latitude: 19.68954
 longitude: -155.06817
 postcode: "96720"
 city: Hilo
-street: "Kilauea Avenue"
-housenumber: 2196
+street: Kilauea Avenue
+housenumber: "2196"
 phone: ""
 opening_hours: ""
 website: ""

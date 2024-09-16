@@ -1,11 +1,11 @@
 id: 113186894
-type: way
+type: node
 latitude: 21.3054
 longitude: -157.87347
 postcode: "96819"
 city: Honolulu
-street: "Sand Island Parkway"
-housenumber: 400
+street: Sand Island Parkway
+housenumber: "400"
 phone: ""
-opening_hours: "Mo-Fr 07:30-18:00, Sa 09:00-18:00, Su 10:00-17-00"
-website: "https://shopcgx.com/store-locations.html"
+opening_hours: Mo-Fr 07:30-18:00, Sa 09:00-18:00, Su 10:00-17-00
+website: https://shopcgx.com/store-locations.html

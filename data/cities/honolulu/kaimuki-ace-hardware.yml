@@ -1,11 +1,11 @@
 id: 480912066
-type: way
+type: node
 latitude: 21.28556
 longitude: -157.80388
 postcode: "96716"
 city: Honolulu
-street: "Waialae Avenue"
-housenumber: 3384
-phone: "+1 808 732 2888"
+street: Waialae Avenue
+housenumber: "3384"
+phone: +1 808 732 2888
 opening_hours: ""
-website: "https://www.kaimuki-ace.com/"
+website: https://www.kaimuki-ace.com/

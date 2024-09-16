@@ -1,11 +1,11 @@
 id: 842260104
-type: way
+type: node
 latitude: 21.38576
 longitude: -157.751
 postcode: "96734"
 city: Kailua
-street: "Kailua Road"
-housenumber: 1127
-phone: "+1-808-263-4414"
+street: Kailua Road
+housenumber: "1127"
+phone: +1-808-263-4414
 opening_hours: ""
 website: ""

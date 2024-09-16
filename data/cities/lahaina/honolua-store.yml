@@ -1,11 +1,11 @@
 id: 703258619
-type: way
+type: node
 latitude: 20.99896
 longitude: -156.65468
 postcode: "96761"
 city: Lahaina
-street: "Office Road"
-housenumber: 502
+street: Office Road
+housenumber: "502"
 phone: ""
 opening_hours: ""
 website: ""

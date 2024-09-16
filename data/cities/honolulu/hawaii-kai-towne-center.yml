@@ -1,11 +1,11 @@
 id: 158617075
-type: way
+type: node
 latitude: 21.28438
 longitude: -157.71124
 postcode: "96825"
 city: Honolulu
-street: "Keahole Street"
-housenumber: 333
-phone: "+1 808 396 0766"
+street: Keahole Street
+housenumber: "333"
+phone: +1 808 396 0766
 opening_hours: ""
-website: "https://hawaiikaitownecenter.com/"
+website: https://hawaiikaitownecenter.com/

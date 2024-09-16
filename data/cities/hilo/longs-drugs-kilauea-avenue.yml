@@ -1,11 +1,11 @@
 id: 232595207
-type: way
+type: node
 latitude: 19.71903
 longitude: -155.08129
 postcode: "96720"
 city: Hilo
-street: "Kilauea Avenue"
-housenumber: 555
+street: Kilauea Avenue
+housenumber: "555"
 phone: ""
 opening_hours: ""
-website: "http://longsdrugs.com"
+website: http://longsdrugs.com

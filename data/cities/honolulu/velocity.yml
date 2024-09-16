@@ -1,11 +1,11 @@
 id: 818646306
-type: way
+type: node
 latitude: 21.2992
 longitude: -157.8527
 postcode: "96813"
 city: Honolulu
-street: "Kapiolani Boulevard"
-housenumber: 888
+street: Kapiolani Boulevard
+housenumber: "888"
 phone: ""
 opening_hours: ""
-website: "https://www.velocityhonolulu.com/"
+website: https://www.velocityhonolulu.com/

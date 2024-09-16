@@ -1,11 +1,11 @@
 id: 307666187
-type: way
+type: node
 latitude: 21.29561
 longitude: -157.85252
 postcode: "96814"
 city: Honolulu
-street: "Queen Street"
-housenumber: 1030
+street: Queen Street
+housenumber: "1030"
 phone: ""
 opening_hours: ""
-website: "https://www.portaloha.com/antiquealley/"
+website: https://www.portaloha.com/antiquealley/

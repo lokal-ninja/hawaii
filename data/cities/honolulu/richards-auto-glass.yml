@@ -1,11 +1,11 @@
 id: 620988197
-type: way
+type: node
 latitude: 21.29899
 longitude: -157.84207
 postcode: "96814"
 city: Honolulu
-street: "South King Street"
-housenumber: 1293
+street: South King Street
+housenumber: "1293"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 1022861118
-type: way
+type: node
 latitude: 20.88461
 longitude: -156.30561
 postcode: "96708"
 city: Haiku
-street: "Kauhikoa Road"
-housenumber: 2065
+street: Kauhikoa Road
+housenumber: "2065"
 phone: ""
-opening_hours: "Mo-Sa 08:00-17:00"
+opening_hours: Mo-Sa 08:00-17:00
 website: ""

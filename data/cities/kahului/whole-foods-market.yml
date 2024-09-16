@@ -1,11 +1,11 @@
 id: 173185275
-type: way
+type: node
 latitude: 20.89096
 longitude: -156.46453
 postcode: "96732"
 city: Kahului
-street: "Kaahumanu Avenue"
-housenumber: 70
-phone: "+1 808-872-3310"
-opening_hours: "Mo-Su 07:00-21:00"
-website: "https://www.wholefoodsmarket.com/stores/maui"
+street: Kaahumanu Avenue
+housenumber: "70"
+phone: +1 808-872-3310
+opening_hours: Mo-Su 07:00-21:00
+website: https://www.wholefoodsmarket.com/stores/maui

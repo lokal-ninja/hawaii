@@ -1,11 +1,11 @@
 id: 697303227
-type: way
+type: node
 latitude: 19.71908
 longitude: -155.08874
 postcode: "96720"
 city: Hilo
-street: "Kapiolani Street"
-housenumber: 192
-phone: "+1 808 938 0726"
-opening_hours: "Mo-Sa 08:30+"
+street: Kapiolani Street
+housenumber: "192"
+phone: +1 808 938 0726
+opening_hours: Mo-Sa 08:30+
 website: ""

@@ -1,11 +1,11 @@
 id: 262144020
-type: way
+type: node
 latitude: 19.69839
 longitude: -155.05996
 postcode: "96720"
 city: Hilo
-street: "East Makaʻala Street"
-housenumber: 360
+street: East Makaʻala Street
+housenumber: "360"
 phone: ""
 opening_hours: ""
-website: "https://www.homedepot.com/"
+website: https://www.homedepot.com/

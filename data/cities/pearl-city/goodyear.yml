@@ -1,11 +1,11 @@
 id: 1232097848
-type: way
+type: node
 latitude: 21.38796
 longitude: -157.95531
 postcode: "96782"
 city: Pearl City
-street: "Kamehameha Highway"
-housenumber: 350
-phone: "+1-808-487-0066"
-opening_hours: "Mo-Sa 08:00-19:00; Su 08:00-14:00"
-website: "https://www.goodyear.com/en_US/location/Pearl-City-HI-96782-US-000908035"
+street: Kamehameha Highway
+housenumber: "350"
+phone: +1-808-487-0066
+opening_hours: Mo-Sa 08:00-19:00; Su 08:00-14:00
+website: https://www.goodyear.com/en_US/location/Pearl-City-HI-96782-US-000908035

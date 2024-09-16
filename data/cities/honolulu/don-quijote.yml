@@ -1,11 +1,11 @@
 id: 134169566
-type: way
+type: node
 latitude: 21.29321
 longitude: -157.83887
 postcode: "96814"
 city: Honolulu
-street: "Kaheka Street"
-housenumber: 801
+street: Kaheka Street
+housenumber: "801"
 phone: ""
 opening_hours: ""
-website: "https://www.donquijotehawaii.com/"
+website: https://www.donquijotehawaii.com/

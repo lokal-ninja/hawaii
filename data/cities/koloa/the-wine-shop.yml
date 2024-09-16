@@ -1,11 +1,11 @@
 id: 364833147
-type: way
+type: node
 latitude: 21.90496
 longitude: -159.46382
 postcode: ""
 city: Koloa
-street: "Koloa Road"
-housenumber: 5470
-phone: "+1-808-742-7305"
+street: Koloa Road
+housenumber: "5470"
+phone: +1-808-742-7305
 opening_hours: ""
-website: "https://thewineshopkauai.com/"
+website: https://thewineshopkauai.com/

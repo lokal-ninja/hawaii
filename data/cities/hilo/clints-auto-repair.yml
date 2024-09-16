@@ -1,11 +1,11 @@
 id: 810169995
-type: way
+type: node
 latitude: 19.68962
 longitude: -155.06808
 postcode: "96720"
 city: Hilo
-street: "West Kahaopea Street"
-housenumber: 2190
+street: West Kahaopea Street
+housenumber: "2190"
 phone: ""
 opening_hours: ""
 website: ""

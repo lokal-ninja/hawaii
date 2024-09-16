@@ -1,11 +1,11 @@
 id: 817000339
-type: way
+type: node
 latitude: 21.33712
 longitude: -157.86857
 postcode: ""
 city: Honolulu
-street: "North School Street"
-housenumber: 1620
+street: North School Street
+housenumber: "1620"
 phone: ""
 opening_hours: ""
 website: ""

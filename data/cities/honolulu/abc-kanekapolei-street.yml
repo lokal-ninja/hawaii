@@ -1,11 +1,11 @@
 id: 539070879
-type: way
+type: node
 latitude: 21.2778
 longitude: -157.82433
 postcode: ""
 city: Honolulu
-street: "Kanekapolei Street"
-housenumber: 412
+street: Kanekapolei Street
+housenumber: "412"
 phone: ""
 opening_hours: ""
 website: ""

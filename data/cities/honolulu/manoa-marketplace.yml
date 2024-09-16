@@ -1,11 +1,11 @@
 id: 854601255
-type: way
+type: node
 latitude: 21.3101
 longitude: -157.80952
 postcode: "96822"
 city: Honolulu
-street: "Woodlawn Drive"
-housenumber: 2752
+street: Woodlawn Drive
+housenumber: "2752"
 phone: ""
-opening_hours: "Mo-Su 06:00-11:00"
-website: "http://manoamarketplacehawaii.com/"
+opening_hours: Mo-Su 06:00-11:00
+website: http://manoamarketplacehawaii.com/

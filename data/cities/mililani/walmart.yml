@@ -1,11 +1,11 @@
 id: 161720601
-type: way
+type: node
 latitude: 21.45053
 longitude: -158.00623
 postcode: "96789"
 city: Mililani
-street: "Lanikuhana Avenue"
+street: Lanikuhana Avenue
 housenumber: 95-550
-phone: "+1-808-623-6744"
-opening_hours: "24/7"
-website: "https://www.walmart.com/store/2126/mililani-hi/whats-new"
+phone: +1-808-623-6744
+opening_hours: 24/7
+website: https://www.walmart.com/store/2126/mililani-hi/whats-new

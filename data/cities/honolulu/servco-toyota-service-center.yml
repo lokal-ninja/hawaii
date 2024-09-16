@@ -1,11 +1,11 @@
 id: 544909476
-type: way
+type: node
 latitude: 21.34372
 longitude: -157.89686
 postcode: "96819"
 city: Honolulu
-street: "Pukoloa Street"
-housenumber: 2841
-phone: "+1-877-215-5487"
-opening_hours: "Mo-Sa 07:00-18:00"
+street: Pukoloa Street
+housenumber: "2841"
+phone: +1-877-215-5487
+opening_hours: Mo-Sa 07:00-18:00
 website: ""

@@ -1,11 +1,11 @@
 id: 364833399
-type: way
+type: node
 latitude: 21.90491
 longitude: -159.46394
 postcode: ""
 city: Koloa
-street: "Koloa Road"
-housenumber: 5476
-phone: "+1-808-742-9998"
+street: Koloa Road
+housenumber: "5476"
+phone: +1-808-742-9998
 opening_hours: ""
 website: ""

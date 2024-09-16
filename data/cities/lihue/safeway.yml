@@ -1,11 +1,11 @@
 id: 958034040
-type: way
+type: node
 latitude: 21.96909
 longitude: -159.38579
 postcode: "96766"
 city: Lihue
-street: "Nuhou Street"
-housenumber: 4454
-phone: "+1 808-246-0290"
-opening_hours: "24/7"
-website: "https://local.safeway.com/safeway/hi/lihue/4454-nuhou-st-suite--301.html"
+street: Nuhou Street
+housenumber: "4454"
+phone: +1 808-246-0290
+opening_hours: 24/7
+website: https://local.safeway.com/safeway/hi/lihue/4454-nuhou-st-suite--301.html

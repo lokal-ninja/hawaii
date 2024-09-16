@@ -4,8 +4,8 @@ latitude: 21.30166
 longitude: -157.84208
 postcode: "96814"
 city: Honolulu
-street: "South Beretania Street"
-housenumber: 1234
-phone: "+1 808-535-1780"
-opening_hours: "Mo-Su 5:00-23:00"
-website: "https://local.safeway.com/safeway/hi/honolulu/1234-s-beretania-st.html"
+street: South Beretania Street
+housenumber: "1234"
+phone: +1 808-535-1780
+opening_hours: Mo-Su 5:00-23:00
+website: https://local.safeway.com/safeway/hi/honolulu/1234-s-beretania-st.html

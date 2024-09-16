@@ -1,11 +1,11 @@
 id: 1093937636
-type: way
+type: node
 latitude: 21.39812
 longitude: -157.97629
 postcode: "96782"
 city: Pearl City
-street: "Kuala Street"
-housenumber: 1110
-phone: "+1-808-650-6597"
-opening_hours: "Mo-Sa 07:30-22:00; Su 07:30-21:00"
-website: "https://www.autozone.com/locations/hi/pearl-city/1110-kuala-st-.html"
+street: Kuala Street
+housenumber: "1110"
+phone: +1-808-650-6597
+opening_hours: Mo-Sa 07:30-22:00; Su 07:30-21:00
+website: https://www.autozone.com/locations/hi/pearl-city/1110-kuala-st-.html

@@ -1,11 +1,11 @@
 id: 818008172
-type: way
+type: node
 latitude: 21.42847
 longitude: -158.01676
 postcode: "96789"
 city: Milliani
-street: "Makapipipi Place"
+street: Makapipipi Place
 housenumber: 94-415
-phone: "+1 808 625 2800"
-opening_hours: "Mo-Sa 09:00-16:00"
-website: "https://marisgardens.com/"
+phone: +1 808 625 2800
+opening_hours: Mo-Sa 09:00-16:00
+website: https://marisgardens.com/

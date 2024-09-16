@@ -4,8 +4,8 @@ latitude: 19.72048
 longitude: -155.08262
 postcode: "96720"
 city: Hilo
-street: "Kilauea Avenue"
-housenumber: 393
-phone: "808-935-6552"
-opening_hours: "Monday - Saturday: 9:00AM to 5:30PM"
-website: "https://selinaspabeauty.com"
+street: Kilauea Avenue
+housenumber: "393"
+phone: 808-935-6552
+opening_hours: 'Monday - Saturday: 9:00AM to 5:30PM'
+website: https://selinaspabeauty.com

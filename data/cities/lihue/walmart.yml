@@ -1,11 +1,11 @@
 id: 99134576
-type: way
+type: node
 latitude: 21.98296
 longitude: -159.36536
 postcode: "96766"
 city: Lihue
-street: "Kuhio Highway"
+street: Kuhio Highway
 housenumber: 3-3300
-phone: "+1-808-246-1599"
-opening_hours: "Mo-Su 06:00-21:00"
-website: "https://www.walmart.com/store/2308/lihue-hi/whats-new"
+phone: +1-808-246-1599
+opening_hours: Mo-Su 06:00-21:00
+website: https://www.walmart.com/store/2308/lihue-hi/whats-new

@@ -1,11 +1,11 @@
 id: 307663627
-type: way
+type: node
 latitude: 21.30036
 longitude: -157.85474
 postcode: "96813"
 city: Honolulu
-street: "Kapiolani Boulevard"
-housenumber: 767
+street: Kapiolani Boulevard
+housenumber: "767"
 phone: ""
 opening_hours: ""
 website: ""

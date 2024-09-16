@@ -1,11 +1,11 @@
 id: 654509757
-type: way
+type: node
 latitude: 19.70933
 longitude: -155.07923
 postcode: "96720"
 city: Hilo
-street: "Kinoʻole Street"
-housenumber: 1216
+street: Kinoʻole Street
+housenumber: "1216"
 phone: ""
-opening_hours: "Mo,We,Fr 07:30-11:30,12:30-16:00; Tu,Th 09:00-13:00,14:00-18:00"
+opening_hours: Mo,We,Fr 07:30-11:30,12:30-16:00; Tu,Th 09:00-13:00,14:00-18:00
 website: ""

@@ -1,11 +1,11 @@
 id: 337107493
-type: way
+type: node
 latitude: 20.97219
 longitude: -156.67819
 postcode: "96761"
 city: Lahaina
-street: "Honoapiilani Highway"
-housenumber: 4405
-phone: "+1 808 661-5304"
+street: Honoapiilani Highway
+housenumber: "4405"
+phone: +1 808 661-5304
 opening_hours: ""
-website: "https://kahanagateway.co/"
+website: https://kahanagateway.co/

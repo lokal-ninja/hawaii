@@ -1,11 +1,11 @@
 id: 306044142
-type: way
+type: node
 latitude: 21.29409
 longitude: -157.84689
 postcode: "96814"
 city: Honolulu
-street: "Piikoi Street"
-housenumber: 510
+street: Piikoi Street
+housenumber: "510"
 phone: ""
 opening_hours: ""
 website: ""

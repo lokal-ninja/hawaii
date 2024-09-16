@@ -1,11 +1,11 @@
 id: 1004285361
-type: way
+type: node
 latitude: 21.27193
 longitude: -157.82215
 postcode: "96815"
 city: Honolulu
-street: "Kapahulu Avenue"
-housenumber: 124
+street: Kapahulu Avenue
+housenumber: "124"
 phone: ""
 opening_hours: ""
 website: ""
