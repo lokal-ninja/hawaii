@@ -1,6 +1,6 @@
 ---
 title: Kapolei
 url: /kapolei/
-latitude: 21.327
-longitude: -158.088
+latitude: 21.335
+longitude: -158.056
 ---
