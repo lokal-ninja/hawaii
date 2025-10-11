@@ -1,6 +1,6 @@
 ---
 title: Honolulu
 url: /honolulu/
-latitude: 21.277
-longitude: -157.786
+latitude: 21.276
+longitude: -157.823
 ---
