@@ -1,5 +1,5 @@
 ---
 title: "Aloha Island Mart"
-url: /hilo/aloha-island-mart-kino-ole-street/
+url: /hilo/aloha-island-mart-kamehameha-avenue/
 shop: convenience
 ---
