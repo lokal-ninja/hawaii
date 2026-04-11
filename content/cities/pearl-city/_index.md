@@ -1,6 +1,6 @@
 ---
 title: Pearl City
 url: /pearl-city/
-latitude: 21.395
-longitude: -157.968
+latitude: 21.397
+longitude: -157.978
 ---
