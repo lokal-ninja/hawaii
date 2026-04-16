@@ -1,6 +1,6 @@
 ---
 title: Kaunakakai
 url: /kaunakakai/
-latitude: 21.091
-longitude: -157.02
+latitude: 21.09
+longitude: -157.021
 ---
