@@ -1,5 +1,5 @@
 ---
 title: "Safeway"
-url: /kailua/safeway-keolu-drive/
+url: /kailua/safeway-kaneohe-bay-drive/
 shop: supermarket
 ---
