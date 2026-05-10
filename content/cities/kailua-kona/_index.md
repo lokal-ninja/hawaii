@@ -1,6 +1,6 @@
 ---
-title: Kailua Kona
+title: Kailua-Kona
 url: /kailua-kona/
-latitude: 19.57
-longitude: -155.962
+latitude: 19.648
+longitude: -155.998
 ---
