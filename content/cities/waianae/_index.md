@@ -1,6 +1,6 @@
 ---
 title: Waianae
 url: /waianae/
-latitude: 21.386
-longitude: -158.15
+latitude: 21.445
+longitude: -158.188
 ---

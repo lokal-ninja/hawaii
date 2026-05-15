@@ -1,6 +1,6 @@
 ---
 title: Kailua
 url: /kailua/
-latitude: 21.377
-longitude: -157.729
+latitude: 21.392
+longitude: -157.741
 ---
