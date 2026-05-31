@@ -1,6 +1,6 @@
 ---
 title: Wahiawa
 url: /wahiawa/
-latitude: 21.495
-longitude: -158.03
+latitude: 21.497
+longitude: -158.028
 ---
