@@ -1,6 +1,6 @@
 ---
 title: Waimanalo
 url: /waimanalo/
-latitude: 21.344
-longitude: -157.742
+latitude: 21.348
+longitude: -157.723
 ---
