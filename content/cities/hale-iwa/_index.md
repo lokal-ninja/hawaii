@@ -1,6 +1,6 @@
 ---
 title: Haleʻiwa
 url: /hale-iwa/
-latitude: 21.588
-longitude: -158.103
+latitude: 21.581
+longitude: -158.105
 ---
