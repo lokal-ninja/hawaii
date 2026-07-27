@@ -1,6 +1,6 @@
 ---
-title: Honokaa
+title: Honoka'a
 url: /honokaa/
-latitude: 20.08
-longitude: -155.473
+latitude: 20.079
+longitude: -155.468
 ---

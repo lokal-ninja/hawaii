@@ -1,5 +1,5 @@
 ---
-title: "Brug Bakery"
+title: "BRUG Bakery"
 url: /aiea/brug-bakery/
 shop: bakery
 ---

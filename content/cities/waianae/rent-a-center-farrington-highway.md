@@ -1,5 +1,5 @@
 ---
-title: "Rent a Center"
+title: "Rent-A-Center"
 url: /waianae/rent-a-center-farrington-highway/
-shop: storage rental
+shop: furniture
 ---
