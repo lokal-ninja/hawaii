@@ -1,5 +1,5 @@
 ---
-title: "Rent a Center"
+title: "Rent-A-Center"
 url: /waianae/rent-a-center/
-shop: storage rental
+shop: furniture
 ---

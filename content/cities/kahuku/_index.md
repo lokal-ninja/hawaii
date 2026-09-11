@@ -1,6 +1,6 @@
 ---
 title: Kahuku
 url: /kahuku/
-latitude: 21.696
-longitude: -158.005
+latitude: 21.69
+longitude: -157.968
 ---

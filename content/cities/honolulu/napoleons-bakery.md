@@ -1,5 +1,5 @@
 ---
-title: "Napoleon's Bakery"
+title: "Napoleon’s Bakery"
 url: /honolulu/napoleons-bakery/
 shop: bakery
 ---
