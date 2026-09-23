@@ -1,5 +1,5 @@
 ---
 title: "7-Eleven"
-url: /hilo/7-eleven-kilauea-avenue/
+url: /hilo/7-eleven-west-kawili-street/
 shop: convenience
 ---
