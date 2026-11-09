@@ -1,6 +1,6 @@
 ---
 title: Kāneʻohe
 url: /kane-ohe/
-latitude: 21.418
-longitude: -157.805
+latitude: 21.482
+longitude: -157.845
 ---
